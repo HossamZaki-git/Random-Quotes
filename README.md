@@ -8,7 +8,6 @@ A sleek and interactive web app that displays random quotes with dynamic particl
 - 🎨 Responsive design using Bootstrap 5
 - 🌌 Animated particle background powered by particles.js
 - 🧠 Clean, modular JavaScript for easy maintenance
-- 📱 Mobile-friendly layout
 
 ## 🛠️ Tech Stack
 
